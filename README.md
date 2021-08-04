@@ -23,7 +23,7 @@
 - ⚡ 개발 말고도 디자인, 마케팅 등 이것저것 공부하고 있어요.  
   
 
--  1️⃣0️⃣0️⃣ 만명이 다운로드한 '모동숲라이프' 를 만들었어요.
+-  1️⃣0️⃣0️⃣ 만명이 다운로드한 '모동숲라이프' 를 만들었어요.<br/>
 https://play.google.com/store/apps/details?id=com.hangodjin.animal_crossing_guide&hl=en&gl=US  
   
 
@@ -50,18 +50,21 @@ https://play.google.com/store/apps/details?id=com.hangodjin.animal_crossing_guid
 <br/>  
 
 
-## Github Stats  
+## Github Stats
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=1eehanjin&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eehanjin&hide_border=true&layout=compact" align="center" />  
+</div>
 
 
 
 
 
+<br/>
 
-<br />
 ## My Skill Set  
+
 <table><tr><td valign="top" width="50%">
 
 
