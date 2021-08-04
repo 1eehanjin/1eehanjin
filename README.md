@@ -70,11 +70,12 @@ https://play.google.com/store/apps/details?id=com.hangodjin.animal_crossing_guid
 <br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-## <div align="center">My Skill Set  
+
+
+
+<br />
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -128,6 +129,10 @@ https://play.google.com/store/apps/details?id=com.hangodjin.animal_crossing_guid
 </td></tr></table>  
 
 <br/>  
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 <!--
 **1eehanjin/1eehanjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
