@@ -27,7 +27,7 @@
 https://play.google.com/store/apps/details?id=com.hangodjin.animal_crossing_guide&hl=en&gl=US  
   
 
-## <div align="center">지금 공부하는 것은...</div>  
+## 지금 공부하는 것은...
   
 
 <br/>  
@@ -51,9 +51,9 @@ https://play.google.com/store/apps/details?id=com.hangodjin.animal_crossing_guid
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=1eehanjin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=1eehanjin&show_icons=true&count_private=true&hide_border=true" align="center" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eehanjin&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1eehanjin&hide_border=true&layout=compact" align="center" />  
 
 
 
