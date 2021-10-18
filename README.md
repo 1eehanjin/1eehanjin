@@ -23,11 +23,6 @@
 - ⚡ 개발 말고도 디자인, 마케팅 등 이것저것 공부하고 있어요.  
   
 
--  1️⃣0️⃣0️⃣ 만명이 다운로드한 '모동숲라이프' 를 만들었어요.<br/>
-https://play.google.com/store/apps/details?id=com.hangodjin.animal_crossing_guide&hl=en&gl=US  
-  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/1eehanjin" target="_blank">
